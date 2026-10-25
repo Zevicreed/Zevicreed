@@ -9,6 +9,7 @@ Construyo apps y sistemas reales para negocios: POS, inventarios, RRHH, finanzas
 <br/>
 
 Languages and Tools 🛠
+!Microsoft Excel
 !TypeScript
 !JavaScript
 !React
